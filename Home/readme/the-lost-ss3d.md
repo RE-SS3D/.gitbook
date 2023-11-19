@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/unknown_2.png
+cover: ../.gitbook/assets/unknown (2).png
 coverY: 0
 layout:
   cover:
@@ -20,4 +20,3 @@ layout:
 # The Lost SS3D
 
 Not much is known about \*beep's journey besides what he publicly said, few people had direct contact with him and much of what we had has been lost to history.
-
