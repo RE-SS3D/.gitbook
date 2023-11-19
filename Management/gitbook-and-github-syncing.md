@@ -14,4 +14,8 @@ If you add another space, follow the doc here to sync it \
 
 When syncing another space, don't let the root folder by default, otherwise it'll make a mess on github.&#x20;
 
-Add a folder with a similar name to the space you created
+Add a folder with a similar name to the space you created.
+
+For this space, here's the project directory
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
