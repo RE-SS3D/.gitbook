@@ -1,2 +1,0 @@
-# Directional Adjacency Connections
-

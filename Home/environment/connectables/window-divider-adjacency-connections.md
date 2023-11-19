@@ -1,2 +1,0 @@
-# Window Divider Adjacency Connections
-

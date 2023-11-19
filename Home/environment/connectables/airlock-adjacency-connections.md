@@ -1,2 +1,0 @@
-# Airlock Adjacency Connections
-
