@@ -9,3 +9,4 @@
     * [Dev Bounties](finances/bounties/dev-bounties.md)
     * [Art Bounties](finances/bounties/art-bounties.md)
 * [📰 Devblog](devblog.md)
+* [Gitbook and Github syncing](gitbook-and-github-syncing.md)
