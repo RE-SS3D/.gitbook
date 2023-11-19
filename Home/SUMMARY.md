@@ -1,6 +1,6 @@
 # Table of contents
 
-* [✍ Design Intro](README.md)
+* [🏠 Home](README.md)
   * [Gameplay Summary](readme/gameplay-summary.md)
   * [Art Style](readme/art-style.md)
 * [🕹 Basic Game Mechanics](basic-game-mechanics/README.md)

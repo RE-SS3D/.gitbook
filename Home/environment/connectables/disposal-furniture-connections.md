@@ -1,0 +1,2 @@
+# Disposal furniture connections
+
