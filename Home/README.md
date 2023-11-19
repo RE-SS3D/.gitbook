@@ -13,8 +13,8 @@ Hey! This is the GitBook for Space Station 3D, here you'll find important info a
 
 So you want to develop _now_? At _least_ buy me dinner first.
 
-{% content-ref url="readme/quick-start.md" %}
-[quick-start.md](readme/quick-start.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Want to deep dive?

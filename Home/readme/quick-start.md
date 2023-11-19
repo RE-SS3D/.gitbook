@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/ProbablyNot_Station1.png
 coverY: 0
 ---
 
-# Quick start
+# ⭐ Quick Start
 
 ## Quick start
 
