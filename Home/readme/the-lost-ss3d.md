@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/unknown (2).png
+cover: ../.gitbook/assets/lost_station.png
 coverY: 0
 layout:
   cover:
