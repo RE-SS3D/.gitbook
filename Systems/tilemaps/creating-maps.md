@@ -17,6 +17,8 @@ To get started with the creator, run the game and press **B** after spawning. Th
 * Press **left mouse button** to place an object
 * Press **R** to rotate an object&#x20;
 * Hold **left shift** to replace an existing object on the same layer
+* **Click drag** to place/delete/replace in a line form
+* **Alt+Click drag** to place/delete/replace in a square form
 
 ### Building indicators
 
