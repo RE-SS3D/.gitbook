@@ -40,3 +40,4 @@
 * [🛋 Lobby](lobby.md)
 * [🛠 Crafting](crafting.md)
 * [💬 Chat](chat.md)
+* [📣 Audios](audios.md)
