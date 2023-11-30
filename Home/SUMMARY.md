@@ -2,7 +2,6 @@
 
 * [🏠 Home](README.md)
   * [History](readme/history.md)
-  * [The Lost SS3D](readme/the-lost-ss3d.md)
 * [⭐ Quick Start](readme/quick-start.md)
 * [✍ Design](http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/hffJRpQgXgXOOhvtML3c/)
 * [🎨 Art Guide](http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/o88TIFUbxlEVDM0ZH62q/)

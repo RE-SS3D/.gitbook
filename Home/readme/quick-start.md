@@ -5,18 +5,8 @@ coverY: 0
 
 # ⭐ Quick Start
 
-## Quick start
-
-***
-
-###
-
-## ⭐ Quick Start
-
-<figure><img src=".gitbook/assets/ProbablyNot_PDA.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
-**Good to know:** Use the tools you prefer. I personally love Fork for my Git ~~bloatware~~ uses, and JetBrains Rider for my IDE. However, we do not discriminate, even, _if you're using VIM_.\
+G**ood to know:** Use the tools you prefer. I personally love Fork for my Git ~~bloatware~~ uses, and JetBrains Rider for my IDE. However, we do not discriminate, even, _if you're using VIM_.\
 \- John
 {% endhint %}
 
