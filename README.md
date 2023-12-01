@@ -1,13 +1,38 @@
 ---
-description: Intro to developing for Space Station 3D!
-cover: .gitbook/assets/SmokingMan_EngineeringGang.png
+cover: .gitbook/assets/ProbablyNot_Station1.png
 coverY: 0
 ---
 
-# 📝 Dev Intro
+# 🏠 Home
 
-This page outlines the guidelines for contributing to the SS3D project. If you have any questions, feel free to ask on our [discussions page](https://github.com/RE-SS3D/SS3D/discussions) or [discord server](https://discord.gg/Z3sPhyS).
+<figure><img src="https://github.com/RE-SS3D/gitbook/blob/main/Home/.gitbook/assets/ss3dmedium.png" alt=""><figcaption></figcaption></figure>
 
-The game itself is made in Unity and written in C#, check out our [C# style guide](guidelines/the-c-style-guide/). We use [FishNet](networking/fishnet-networking/) for networking.
+Hey! This is the GitBook for Space Station 3D, here you'll find important info about how SS3D is developed, such as guides and definitions we follow.
 
-For art contributors, read through the subpages under this page, then head over to the [art guide](http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/o88TIFUbxlEVDM0ZH62q/).
+## Want to jump right in?
+
+So you want to develop _now_? At _least_ buy me dinner first.
+
+{% content-ref url="quick-start.md" %}
+[quick-start.md](quick-start.md)
+{% endcontent-ref %}
+
+## Want to deep dive?
+
+Good luck unraveling the Shit-Code™ _(now with extra Singletons)_ we have written.
+
+{% content-ref url="http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/hffJRpQgXgXOOhvtML3c/" %}
+[Design](http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/hffJRpQgXgXOOhvtML3c/)
+{% endcontent-ref %}
+
+{% content-ref url="http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/o88TIFUbxlEVDM0ZH62q/" %}
+[Art Guide](http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/o88TIFUbxlEVDM0ZH62q/)
+{% endcontent-ref %}
+
+{% content-ref url="http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/oTyzvarT8sBLwLdFnIjo/" %}
+[Dev Guide](http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/oTyzvarT8sBLwLdFnIjo/)
+{% endcontent-ref %}
+
+{% content-ref url="http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/95OhrYYgKj0eUTnfM9sL/" %}
+[Systems](http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/95OhrYYgKj0eUTnfM9sL/)
+{% endcontent-ref %}
