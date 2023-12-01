@@ -6,7 +6,7 @@ description: Outlines our community rules and how to moderate them.
 
 _**(this document needs to be expanded more)**_
 
-You can find the communities we are responsible for moderating under the [Sites & Accounts page](sites-and-accounts.md#communities), but this also expands to all our sites including comments on our GitHub repositories, Trello boars, YouTube channel, etc..
+You can find the communities we are responsible for moderating under the [Sites & Accounts page](sites-and-accounts/#communities), but this also expands to all our sites including comments on our GitHub repositories, Trello boars, YouTube channel, etc..
 
 ## Rules
 
