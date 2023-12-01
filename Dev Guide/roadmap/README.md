@@ -82,20 +82,20 @@ The rework is the first primary milestone. Its goal is to rework the structure (
 
 <details>
 
-<summary><a href="https://github.com/orgs/RE-SS3D/projects/7/views/1"><mark style="color:green;">0.0.7 - Fixing, Cleaning, Testing</mark></a></summary>
+<summary><a href="https://github.com/orgs/RE-SS3D/projects/7/views/1"><mark style="color:purple;">0.0.7 - Fixing, Cleaning, Testing</mark></a></summary>
 
-* [ ] Add testing framework, structured logging, playmode & client tests.
-* [ ] Fix various basic bugs and networking issues like joining.
-* [ ] Harmonize maintainer practices like asset and PR reviews.
-* [ ] Document existing systems in the code (not sure what systems need this..)
-* [ ] Port google docs for existing systems to gitbook (Interactions & radial menu, Rounds, Lobby/Server)
-* [ ] Add new gitbook docs for existing systems (Gamemodes, sprite generation, stamina)
+* [x] Add testing framework, structured logging, playmode & client tests.
+* [x] Fix various basic bugs and networking issues like joining.
+* [x] Harmonize maintainer practices like asset and PR reviews.
+* [x] Document existing systems in the code (not sure what systems need this..)
+* [x] Port google docs for existing systems to gitbook (Interactions & radial menu, Rounds, Lobby/Server)
+* [x] Add new gitbook docs for existing systems (Gamemodes, sprite generation, stamina)
 
 </details>
 
 <details>
 
-<summary><a href="https://github.com/orgs/RE-SS3D/projects/41/views/1"><mark style="color:yellow;">0.0.8 - Character Rig &#x26; Animation</mark></a></summary>
+<summary><a href="https://github.com/orgs/RE-SS3D/projects/41/views/1"><mark style="color:green;">0.0.8 - Character Rig &#x26; Animation</mark></a></summary>
 
 * [ ] New character rig.
 * [ ] Basic animations (walking, running, falling, standing, ragdoll, sitting).
@@ -129,7 +129,7 @@ Port Remaining Secondary Systems. None of these will be a "piece of cake" but th
 Add basic SFX & anims:
 
 * [x] Bike horn
-* [ ] Airlock
+* [x] Airlock
 * [ ] Locker door?
 
 Fixes for the Rework major milestone.
@@ -146,9 +146,9 @@ The MVP is the goal to achieve a basic demo-like product to showcase a glimpse o
 
 <summary>Basic Health</summary>
 
-* [ ] Stamina (already added)
-* [ ] Basic hp system (healing + taking damage)
-* [ ] Limb severing?
+* [x] Stamina (already added)
+* [x] Basic hp system (healing + taking damage)
+* [x] Limb severing?
 
 </details>
 
@@ -168,11 +168,11 @@ The MVP is the goal to achieve a basic demo-like product to showcase a glimpse o
 
 Basic clothing system. The belt cannot be put on if the player is not wearing a jumpsuit, and the jumpsuit cannot be removed until the belt is removed first.
 
-* [ ] 5 jumpsuits (cook, security, medic, engineer, captain)
-* [ ] 1 belt
-* [ ] 1 shoes
-* [ ] 1 gloves
-* [ ] 1 backpack - **set up inventory for this**
+* [x] 5 jumpsuits (cook, security, medic, engineer, captain)
+* [x] 1 belt
+* [x] 1 shoes
+* [x] 1 gloves
+* [x] 1 backpack - **set up inventory for this**
 
 </details>
 
@@ -267,9 +267,9 @@ Expand Gamemodes:
 
 Expand Health:
 
-* [ ] Detachable limbs
-* [ ] Basic damage types (brute + burn)
-* [ ] Non-functional Organs
+* [x] Detachable limbs
+* [x] Basic damage types (brute + burn)
+* [x] Non-functional Organs
 * [ ] Basic internal fluids (blood, vomit, saliva)
 
 Expand Combat:
