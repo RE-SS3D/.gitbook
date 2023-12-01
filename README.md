@@ -1,47 +1,13 @@
 ---
-description: Intro to becoming an artist for Space Station 3D!
-cover: .gitbook/assets/CreationOfGreytide.png
-coverY: 180.6947723440135
+description: Intro to developing for Space Station 3D!
+cover: .gitbook/assets/SmokingMan_EngineeringGang.png
+coverY: 0
 ---
 
-# 🎨 Art Intro
+# 📝 Dev Intro
 
-This page will get you informed and all set-up to begin contributing art assets to the SS3D project!
+This page outlines the guidelines for contributing to the SS3D project. If you have any questions, feel free to ask on our [discussions page](https://github.com/RE-SS3D/SS3D/discussions) or [discord server](https://discord.gg/Z3sPhyS).
 
-## Developer Guides
+The game itself is made in Unity and written in C#, check out our [C# style guide](guidelines/the-c-style-guide/). We use [FishNet](networking/fishnet-networking/) for networking.
 
-As an artist, there is a lot in our developer guides that will not be relevant to you, but there are a few things you should know. **Please read the** [**Dev Intro**](http://127.0.0.1:5000/s/oTyzvarT8sBLwLdFnIjo/) **page and its subpages before proceeding.**
-
-## Tasks Boards:
-
-{% tabs %}
-{% tab title="3D Modeling" %}
-{% embed url="https://trello.com/b/ZVcDitv0/ss3d-models" %}
-3D Modeling tasks.
-{% endembed %}
-{% endtab %}
-
-{% tab title="3D Rigging" %}
-{% embed url="https://trello.com/b/cyDuUYyv/ss3d-rig-models" %}
-3D Rigging tasks.
-{% endembed %}
-{% endtab %}
-
-{% tab title="3D Animating" %}
-{% embed url="https://trello.com/b/xZ5bhNWw/ss3d-animations" %}
-3D Animating tasks.
-{% endembed %}
-{% endtab %}
-
-{% tab title="2D" %}
-{% embed url="https://trello.com/b/XVZ95Hjq/ss3d-2d" %}
-All 2D tasks.
-{% endembed %}
-{% endtab %}
-
-{% tab title="Sound" %}
-{% embed url="https://trello.com/b/k6pWgJE0/ss3d-sfx" %}
-All Sound tasks.
-{% endembed %}
-{% endtab %}
-{% endtabs %}
+For art contributors, read through the subpages under this page, then head over to the [art guide](http://127.0.0.1:5000/o/2tc30IysZr2Usu0TTxAY/s/o88TIFUbxlEVDM0ZH62q/).
