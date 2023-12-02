@@ -9,7 +9,7 @@ This repository is an automated backup of our [GitBook documentation](https://ss
 For more info see our document, [GitBook-GitHub Syncing](https://ss3d.gitbook.io/management/management-intro/sites-and-accounts/gitbook-and-github-syncing).
 
 <details>
-<Summary><h3>Table of Contents</h3></Summary>
+<Summary><h3>Table of Contents:</h3></Summary>
 
 - [Home](Home/SUMMARY.md)
 - [Design](Design/SUMMARY.md)
