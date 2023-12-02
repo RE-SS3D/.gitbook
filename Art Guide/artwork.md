@@ -16,4 +16,4 @@ Artwork refers to non-game assets, meaning assets which aren't made with the int
 
 These Artwork assets are used on our website, community pages, and discord server. It's possible some Artwork assets like wallpapers will be added as in-game assets.
 
-_**Add more specifics for these assets...**_
+_**Need to add guides and requirements for artwork assets...**_
