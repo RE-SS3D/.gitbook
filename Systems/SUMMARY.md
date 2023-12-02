@@ -25,6 +25,7 @@
   * [Setting up a container](containers/setting-up-a-container/README.md)
     * [Fields description](containers/setting-up-a-container/fields-description.md)
     * [Networking a container](containers/setting-up-a-container/networking-a-container.md)
+    * [Custom storage conditions](containers/setting-up-a-container/custom-storage-conditions.md)
   * [FAQ](containers/faq.md)
 * [👜 Inventories](inventories/README.md)
   * [Developer Guide](inventories/developer-guide.md)
