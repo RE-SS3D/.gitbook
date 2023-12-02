@@ -14,6 +14,6 @@ Artwork refers to non-game assets, meaning assets which aren't made with the int
 * Trailers/Videos
 * Music
 
-These Artwork assets are used on our website, community pages, and discord server. It's possible somethings like wallpapers may actually get added into the game as backgrounds during a lobby screen or something.
+These Artwork assets are used on our website, community pages, and discord server. It's possible some Artwork assets like wallpapers will be added as in-game assets.
 
 _**Add more specifics for these assets...**_
