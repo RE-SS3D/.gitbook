@@ -91,6 +91,7 @@
         * [Ranged](entities/combat/combat-mode/items/ranged.md)
     * [Melee combat](entities/combat/melee-combat.md)
 * [🔦 Items](items/README.md)
+  * [📌 Hold Positions](items/hold-positions.md)
   * [🍕 Food](items/food.md)
   * [🧰 Containers](items/containers.md)
 * [🎬 Actions](actions/README.md)

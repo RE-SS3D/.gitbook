@@ -20,6 +20,6 @@ For more specific on our art style see our artist guides.
 [Audio](http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/audio)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/other" %}
-[Other](http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/other)
+{% content-ref url="http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/artwork" %}
+[Artwork](http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/artwork)
 {% endcontent-ref %}
