@@ -50,4 +50,4 @@
 * [🎙 Audio](audio/README.md)
   * [SFX](audio/sfx.md)
   * [Music](audio/music.md)
-* [🎬 Other](other.md)
+* [🎬 Artwork](artwork.md)
