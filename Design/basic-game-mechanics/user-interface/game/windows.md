@@ -6,7 +6,7 @@ Windows are UI elements opened when interacting with certain environment items, 
 
 Most windows should be interactable, movable and closable. I suggest the design that retains the dark and semi-transparent work area, but has a distinct header with a recognizable close button and a readable name. This header should be wide enough to click on to drag the whole window through the screen.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>example</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>example</p></figcaption></figure>
 
 The text within should be bright and buttons or highlighted elements should have the frame in color of the header. Said color should be brighter then the work area of the window, yet overall diluted to not distract the player too much and spare their eyes. The exact hue can be chosen within unity and changed depending on the window type, window order or other parameters.
 

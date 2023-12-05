@@ -24,7 +24,7 @@ As an example, the atmospheric pressure meter consists of 3 parts: the base with
 
 Same principle applies to the target dummy, surgery dummy and other complex UI elements.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Pictured: several examples of complex composite UI elements.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Pictured: several examples of complex composite UI elements.</p></figcaption></figure>
 
 <figure><img src="https://lh6.googleusercontent.com/vLY8OTZOhWBLj1gW0yNgCkVX2DBAchLmhXmWGJMLZWhF0XhHW8rDY6iTNb5Wfnzu5KwkYN-HfamlrTEN5LNjnmDtoqRHtkFhQBwAsf61JMShJmhyukAIO-GPevTPfxoPQZ_t6rGRLpzH" alt=""><figcaption><p>Pictured: a collection of layers for said elements. Note that the according naming of each part should be indicative and consistent within each element.</p></figcaption></figure>
 
