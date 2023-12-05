@@ -83,7 +83,7 @@ Self explanatory.
 
 #### Language
 
-Self explanatory. (Yes, I realize "BR" - Brazilian is really a language but it was late when I was making this.
+Self explanatory. (Yes, I realize "BR" - Brazilian is really a language but it was late when I was making this.)
 
 #### Ping
 
