@@ -42,3 +42,6 @@
 * [🛠 Crafting](crafting.md)
 * [💬 Chat](chat.md)
 * [📣 Audios](audios.md)
+* [🔎 Examine](examine/README.md)
+  * [How it works](examine/how-it-works.md)
+  * [Setting up a game object to be examinable](examine/setting-up-a-game-object-to-be-examinable.md)
