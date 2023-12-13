@@ -21,7 +21,7 @@ To use an existing asset database, simply look for its file by <mark style="colo
 ## Examples
 
 {% hint style="warning" %}
-Some of these examples have implicit operators to cast them into the correct type.
+Some of these examples have implicit operators to cast them into the correct type. You have to manually add the implicit operators, for now.
 {% endhint %}
 
 #### Setting an icon for an interaction:
