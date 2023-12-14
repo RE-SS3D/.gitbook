@@ -2,26 +2,20 @@
 
 ## Behavior of airlocks
 
-Airlocks are currently simply acting as doors that open and close when a player goes close to it.
+Airlocks are currently simply acting as doors that open when a player gets near and close a few moments later only if a player is not blocking it.
 
-When a player get close to an airlock, the airlock opens . The airlock stay opened as long as a player is close to the opened airlock. When no player are close to it, the airlock closes after a small amount of time.
-
-This behavior is temporary, or it could be one possible mod of airlocks (automatic mode).
-
-Ideally, airlocks should be interactive, and they should be opened and closed by players interacting with them.
-
-Their precise behavior in this case must still be defined.
+This automatic behavior will be used on some common area airlocks, but secured airlocks should require an interaction to open. Clicking on them with an open hand (if your ID has access and is in your ID slot OR in your PDA which is in your ID slot) or a hand occupied with your ID that has access OR PDA that has ID in it.
 
 ## Airlocks cosmetics
 
-Upon opening, an airlock get some of its material green.
+Upon opening, green lights illuminate.
 
-Upon opening, an airlock get some of its material red.
+Upon opening, red lights illuminate.
 
-When idel (either opened or closed), the material turns black.
+When idle (either opened or closed), the lights turn black.
 
 Airlocks make some sound when opening and closing.
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Airlock opening, see the green light on the top and on the door panel.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt="" width="254"><figcaption><p>Airlock opening, see the green light on the top and on the door panel.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Airlock closing, see the red light on the top and on the door panel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt="" width="260"><figcaption><p>Airlock closing, see the red light on the top and on the door panel</p></figcaption></figure>

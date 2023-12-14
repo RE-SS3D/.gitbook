@@ -4,7 +4,7 @@ description: Work In Progress
 
 # In-game Settings
 
-This is the menu to change the setting in the middle of the round or to AFK in if needed.
+This is the menu to change the setting in the middle of the round.
 
 It has the regular settings one would expect form the 3D game, such as graphical tweaks:
 
@@ -18,6 +18,6 @@ Another, slightly more styled design:
 
 <figure><img src="../../../.gitbook/assets/IMG_20201215_112244_922.jpg" alt=""><figcaption></figcaption></figure>
 
-And the controls menu:
+And another but for the controls page:
 
 <figure><img src="../../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>

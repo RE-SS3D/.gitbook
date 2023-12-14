@@ -1,8 +1,8 @@
 # Edit Character
 
-This menu is made to set up player's character. This requires several other systems, like shape keys, clothing and jobs.
+This menu is for customizing the player's character. This requires several other systems, like shape keys, clothing and jobs.
 
-The character appearance is the menu where the player decides the character's shape, mass, hair, skin color, special features and other things:
+The character appearance is the menu where the player decides the character's shape, mass, height, hair, skin color, special features and other things:
 
 <figure><img src="../../../.gitbook/assets/Xsp_z1uux_s.jpg" alt=""><figcaption><p>Character appearance screen</p></figcaption></figure>
 

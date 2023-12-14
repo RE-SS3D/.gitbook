@@ -8,8 +8,8 @@ coverY: 0
 
 _**For technical documentation on this system use the link below.**_
 
-{% content-ref url="http://127.0.0.1:5000/s/95OhrYYgKj0eUTnfM9sL/tilemaps/adding-new-items-and-objects/adjacency-connections" %}
-[Adjacency Connections](http://127.0.0.1:5000/s/95OhrYYgKj0eUTnfM9sL/tilemaps/adding-new-items-and-objects/adjacency-connections)
+{% content-ref url="https://app.gitbook.com/s/95OhrYYgKj0eUTnfM9sL/tilemaps/adding-new-items-and-objects/adjacency-connections" %}
+[Adjacency Connections](https://app.gitbook.com/s/95OhrYYgKj0eUTnfM9sL/tilemaps/adding-new-items-and-objects/adjacency-connections)
 {% endcontent-ref %}
 
 Connectables are a sub-system of [Tilemaps](../tilemaps/) which use adjacency connection scripts to replace models depending on the status of neighboring tiles.

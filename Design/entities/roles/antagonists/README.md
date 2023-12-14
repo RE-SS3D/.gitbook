@@ -1,6 +1,6 @@
 # Antagonists
 
-As a compliment to any good protagonist, antagonist roles also exist on the station. Many antagonists are capable of existing at the start of rounds, or can appear in the middle of the round as well (under specific circumstances).
+As a compliment to any good protagonist, antagonist roles also exist on the station. Many antagonists are capable of existing at the start of rounds, or can appear in the middle of the round as well.
 
 Antagonists (aka Antags) are categorized into 2 main categories; primary and secondary.
 

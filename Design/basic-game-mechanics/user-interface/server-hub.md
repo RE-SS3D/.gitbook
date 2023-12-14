@@ -1,13 +1,8 @@
----
-description: >-
-  The Server Hub is the first real UI the user will experience. It comes before
-  the Server Lobby and its sub-menus, which come before the game and its
-  sub-menus.
----
-
 # Server Hub
 
-The server hub is simply a 3 page menu with the primary purpose of displaying a list of servers for a user to browse and join through.
+The Server Hub is the first real UI the user will experience. It comes before the [Server Lobby](server-lobby/) and its sub-menus, which comes before the [Game](game/) and its sub-menus.
+
+The server hub is a 3 page menu with the primary purpose of displaying a list of servers for a user to browse and join through.
 
 ### Header
 
@@ -15,7 +10,7 @@ The server hub is simply a 3 page menu with the primary purpose of displaying a 
 
 The window title bar is pretty self explanatory; there's an icon and title of the left, and a minimize, maximize, and exit button on the right.
 
-Then below that, we have 3 buttons on the left and 3 on the right. The 3 on the left are for the 3 pages as mentioned above; Home, Servers, Settings (the Servers button is highlighted because that page is the active one). The 3 on the right are SS3D links; Website, Discord, GitHub.
+Then below that, we have 3 buttons on the left and 3 on the right. The 3 on the left are for the 3 pages as mentioned above; Home, Servers, Settings (the Servers button is highlighted in the above image because that page is the active one). The 3 buttons on the right are SS3D links; Website, Discord, & GitHub.
 
 ## Home Page
 
@@ -29,13 +24,15 @@ The Home page is the first page and mostly provides information.
 
 The changelog provides a feed of recent changes in the game.
 
-This will be connect to either our github releases or the devblogs on our website.
+This will be connected to either our GitHub releases or the devblogs from our website.
 
 ### Information
 
 A description of the game. Maybe a brief history, or witting quote, or welcome message.
 
 Some links to our official platforms.
+
+Maybe an official game trailer.
 
 ### Events
 
@@ -53,9 +50,9 @@ The Servers page is the primary page users will spend time on, as they browse an
 
 ### Server List
 
-The server list is the large window on the left. Not only server name but the list provides server info on; crew count, map, round time, roleplay level, language, ping, and favorite star. The list can be sorted by any of these sections.
+The server list is the large window on the left. Not only server name, but the list provides server info on; crew count, map, round time, roleplay level, language, ping, and favorite star. The list can be sorted by any of these sections.
 
-In the image above the server list is currently sorted by server name, hence the little arrow beneath "Space Station", so the list has the names of servers sorted alphabetically top-to-bottom... but the Favorite Star has higher priority over the sorting arrow so both favored servers are forced to the top. though both sections (favored & unfavored) are still being sorted alphabetically, just separately.
+In the image above the server list is currently sorted by server name (hence the little arrow beneath "Space Station"), so the list has the names sorted alphabetically top-to-bottom... but the Favorite Star has higher priority over the sorting arrow so both favored servers are forced to the top. Though both sections (favored & unfavored) are still being sorted alphabetically, just separately.
 
 When hovering over or selecting a server it will turn color.
 
@@ -63,7 +60,7 @@ When hovering over or selecting a server it will turn color.
 
 #### Server Name
 
-Server names may get long, if so they will be cut off after a certain point with "...". Though when hovering over the name it will begin slowly scrolling right-to-left.
+Server names may get long, if so they will be cut off after a certain point with "..." and will begin to scroll from right-to-left when hovering over it.
 
 #### Crew Count
 
@@ -124,25 +121,25 @@ The Host tab is used for hosting your own game. You can give your game (server) 
 **Public**; connects your game to the web & hosts your game publicly on the SS3D Server Hub.\
 **Private**; connects your game to the web but does NOT get shown on the Server Hub. Only way to connect to a private server is to join manually by inputting their IP (see below).
 
-The Join tab is used for manually joining a server. This is used for joining servers that are private (not listed in the Server List). You must know their IP and if they have one, their password.
+The Join tab is used for manually joining a server. This is used for joining to servers that are private (not listed in the Server List). You must know their IP and if they have one, their password.
 
 ### Server Info
 
 <figure><img src="../../.gitbook/assets/ApplicationFrameHost_P5pQmSTFhr.png" alt="" width="548"><figcaption></figcaption></figure>
 
-The Server Info section will be filled with content/info provided from the servers themselves. In the, their server name. Then an image, and finally some information about the server.
+The Server Info section will be filled with content/info provided from the servers themselves. First their server name., then an image, and finally some information about the server.
 
 This section isn't concrete in design, and possibly the layout of this section could simply be in the hands of the servers themselves.
 
 ### Server Info Extended
 
-Server Info Extended refers to the dark bar at the bottom of the the Server Info section. The left side displays the current gamemode set by the server. The middle has the obvious connect button. And the right side has 3 weblink buttons, similar to those in the Head of the Station Hub, but these are for the server's links rather than SS3D links. They are for website, discord, & github.
+Server Info Extended refers to the dark bar at the bottom of the the Server Info section. The left side displays the current gamemode set by the server. The middle is the obvious connect button. And the right side has 3 weblink buttons, similar to those in the Head of the Station Hub, but these are for the server's links rather than SS3D links. They are for website, discord, & github.
 
 ## Settings Page
 
 <figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
 
-The Settings page is the final page on the Server Hub. It's pretty self explanatory and filled with example settings. Though one of those examples is the idea of color themes for the hub...
+The Settings page is the final page on the Server Hub. It's pretty self explanatory and the above image is filled with example settings. Though one of those examples is the idea of color themes for the hub...
 
 ### Color Themes
 

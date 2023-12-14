@@ -20,7 +20,7 @@ A space suit influences the player’s ability to survive a vacuum, whereas insu
 
 Death in SS3D is certainly an affair, but not a permanent one. **Whether a player has died from gunshot or disease, all players will leave their bodies in the form of ghosts**, which vaguely resemble their past selves.
 
-<figure><img src="https://lh4.googleusercontent.com/JoLe_RZuOi4rIzFGGfM0waRf_wqIrvTXA6uws5M6GTykeEgKH3WxDFaI6tA-VXwk-7H1ZRMCY_VTUPqZ46nNi25pc_edluHn_rx2lOBcms1ujFHxHcpG61bCJhPI-lPAsmEPk_YgvH2PticgM0edvg" alt=""><figcaption><p>BOO!</p></figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/JoLe_RZuOi4rIzFGGfM0waRf_wqIrvTXA6uws5M6GTykeEgKH3WxDFaI6tA-VXwk-7H1ZRMCY_VTUPqZ46nNi25pc_edluHn_rx2lOBcms1ujFHxHcpG61bCJhPI-lPAsmEPk_YgvH2PticgM0edvg" alt="" width="375"><figcaption><p>BOO!</p></figcaption></figure>
 
 Ghosts are the spectators of the round – but that doesn’t mean they are not from participating; there does exist a chance the player’s body is resurrected by medical staff, or by other odd circumstances.
 

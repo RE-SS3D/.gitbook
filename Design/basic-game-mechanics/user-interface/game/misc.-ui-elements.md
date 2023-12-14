@@ -4,9 +4,11 @@ Other interfaces may also exist for more specific use cases, like using station 
 
 Most of those might be achieved by implementing proper windows. Windows are UI elements opened when interacting with certain environment items, like accessing the terminal or a piece of tech that is not detailed enough on the level of its model/texture. Most windows should be interactable, movable and closable.
 
-For a set of design guidelines one should take a look at 2D section of the art guide (LINK HERE)
+For a set of design guidelines one should take a look at [2D section of the art guide](https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/2d).
 
 ### Composite Elements
+
+#### Element Swapping
 
 Some UI elements can have variants to be switched for one another in case of different circumstances. In that case the variant switch needs to be seamless, meaning that the images for those elements need to be of the same size and with the same base position.
 
@@ -15,6 +17,8 @@ Some UI elements can have variants to be switched for one another in case of dif
 <figure><img src="https://lh5.googleusercontent.com/yO9sMV6n9unzCek8BqNpn_QlL3eWhadkX6re-iBbN00z4pxWl4LphPtAWWY9vXBmT-M7wrGcW4gKebWhehi40Tts9f5bYAaz4p6NmCifbWyVISVFVmK4L7ouUy3K-SMsr1tA-AW2VQb0" alt=""><figcaption><p>Thermometer variants’ concept.</p></figcaption></figure>
 
 Note the bar, it is missing from the variant files themselves, but can be added within unity and be programmably extended or shrunk from the bottom of the thermometer.
+
+#### Element Layering
 
 UI elements can also consist of several parts to be layered on top of each other and programmed to be moved, colored or otherwise changed separately.
 
@@ -28,4 +32,4 @@ Same principle applies to the target dummy, surgery dummy and other complex UI e
 
 <figure><img src="https://lh6.googleusercontent.com/vLY8OTZOhWBLj1gW0yNgCkVX2DBAchLmhXmWGJMLZWhF0XhHW8rDY6iTNb5Wfnzu5KwkYN-HfamlrTEN5LNjnmDtoqRHtkFhQBwAsf61JMShJmhyukAIO-GPevTPfxoPQZ_t6rGRLpzH" alt=""><figcaption><p>Pictured: a collection of layers for said elements. Note that the according naming of each part should be indicative and consistent within each element.</p></figcaption></figure>
 
-!
+<figure><img src="https://lh3.googleusercontent.com/oKdMu6rvKm4dMNOYV83iLXrY7spxFAtAyNphHzBmCF6dtOEYs_X5Y55k571gKGaN8tWrd3Pi2KO_dSh9R8P3ZfBDzvBBCe5y3-5iYAN71j2kraqNbO1hOjgYDnVdpKB5UkwSn1F7n3ZdYxGCBVi1HQ" alt="" width="563"><figcaption><p>Example ID texture.</p></figcaption></figure>

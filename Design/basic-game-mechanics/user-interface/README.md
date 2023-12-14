@@ -1,8 +1,8 @@
 # 🖥 User Interface
 
 **This page is for the design of the User Interface overall.**\
-**For info on designing art assets for UI elements, see** [**here**](http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/2d/ui-elements)**.**\
-**For info on the implementation of the UI, see** [**here**](http://127.0.0.1:5000/s/95OhrYYgKj0eUTnfM9sL/systems-intro/user-interface)**.**
+**For info on designing art assets for UI elements, see** [**here**](https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/2d/ui-elements)**.**\
+**For info on the implementation of the UI, see** [**here**](https://app.gitbook.com/s/95OhrYYgKj0eUTnfM9sL/systems-intro/user-interface)**.**
 
 User Interface is broken up into 3 sections; the [Server Hub](server-hub.md), the [Server Lobby](server-lobby/), and the [Game](game/) itself.
 

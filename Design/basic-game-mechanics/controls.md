@@ -2,25 +2,25 @@
 
 _**For technical documentation see Game Controls page linked below.**_
 
-{% content-ref url="http://127.0.0.1:5000/s/95OhrYYgKj0eUTnfM9sL/systems-intro/game-controls" %}
-[Game Controls](http://127.0.0.1:5000/s/95OhrYYgKj0eUTnfM9sL/systems-intro/game-controls)
+{% content-ref url="https://app.gitbook.com/s/95OhrYYgKj0eUTnfM9sL/systems-intro/game-controls" %}
+[Game Controls](https://app.gitbook.com/s/95OhrYYgKj0eUTnfM9sL/systems-intro/game-controls)
 {% endcontent-ref %}
 
 ## Implemented Controls <img src="https://lh5.googleusercontent.com/Ehl0gBmuNX6TT-humCSPwn3YneOspwazVQFnBJS5OdHbVJSFyDUDz_GqECHEHrr9x3BIVCmpw368xGqvhtPMXKr2ZZ0aYW4QzQHvpJIX1zNkHEDg7gOVhXrrYYwmhn9lm_pjgK_Wc6-nXYcQJpuOew" alt="" data-size="line">
 
 Almost all currently implemented controls can be seen and edited in Content/Input/Controls.InputAction.
 
-_Press types are italicized._\
-**Specific buttons are bolded.**\ <mark style="color:green;">Tapping a button is colored green.</mark>\
+**Specific buttons are bolded.**\
+<mark style="color:green;">Tapping a button is colored green.</mark>\
 <mark style="color:blue;">Holding a button is colored blue.</mark>
 
 <details>
 
 <summary>General</summary>
 
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**LMB**</mark> = primary interaction
-* _<mark style="color:blue;">Hold</mark>_ <mark style="color:blue;">**RMB**</mark> = interaction wheel
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**X**</mark> = swap active hand
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**LMB**</mark> = primary interaction
+* <mark style="color:blue;">Hold</mark> <mark style="color:blue;">**RMB**</mark> = interaction wheel
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**X**</mark> = swap active hand
 
 </details>
 
@@ -28,8 +28,8 @@ _Press types are italicized._\
 
 <summary>Movement</summary>
 
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**W/A/S/D**</mark> = move character
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**Shift**</mark> = toggle run/walk
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**W/A/S/D**</mark> = move character
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**Shift**</mark> = toggle run/walk
 
 </details>
 
@@ -37,9 +37,9 @@ _Press types are italicized._\
 
 <summary>Camera</summary>
 
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**1/3**</mark> = rotate camera 90 degrees left/right
-* _<mark style="color:blue;">Hold</mark>_ <mark style="color:blue;">**1/3**</mark> = rotate camera freely left/right
-* _<mark style="color:blue;">Hold</mark>_ <mark style="color:blue;">**-/=**</mark> = rotate camera down/up
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**1/3**</mark> = rotate camera 90 degrees left/right
+* <mark style="color:blue;">Hold</mark> <mark style="color:blue;">**1/3**</mark> = rotate camera freely left/right
+* <mark style="color:blue;">Hold</mark> <mark style="color:blue;">**-/=**</mark> = rotate camera down/up
 
 </details>
 
@@ -47,7 +47,7 @@ _Press types are italicized._\
 
 <summary>User Interface</summary>
 
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**Esc**</mark> = toggle menu
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**Esc**</mark> = toggle menu
 
 </details>
 
@@ -55,7 +55,7 @@ _Press types are italicized._\
 
 <summary>Chat</summary>
 
-_<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**C**</mark> = toggle chat
+<mark style="color:green;">Tap</mark> <mark style="color:green;">**C**</mark> = toggle chat
 
 </details>
 
@@ -71,10 +71,11 @@ _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**C**</mark> 
 
 <summary>Map Editor</summary>
 
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**B**</mark> = toggle map editor
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**R**</mark> = rotate tilemap object
-* _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**LMB**</mark> = place tilemap object
-* _<mark style="color:blue;">Hold</mark>_ <mark style="color:blue;">**Shift**</mark> + _<mark style="color:green;">Tap</mark>_ <mark style="color:green;">**LMB**</mark> = replace tilemap object
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**B**</mark> = toggle map editor
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**R**</mark> = rotate tilemap object
+* <mark style="color:green;">Tap</mark> <mark style="color:green;">**LMB**</mark> = place tilemap object
+* <mark style="color:blue;">Hold</mark> <mark style="color:blue;">**Shift**</mark> + <mark style="color:green;">Tap</mark> <mark style="color:green;">**LMB**</mark> = replace tilemap object
+* <mark style="color:blue;">Hold</mark> <mark style="color:blue;">**Shift**</mark> + <mark style="color:blue;">Drag</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**LMB**</mark> = place tilemap objects
 
 </details>
 

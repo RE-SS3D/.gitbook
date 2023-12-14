@@ -16,9 +16,9 @@ The owner of the server may also manually set limits for the number of players i
 
 ## First Minutes <img src="https://lh5.googleusercontent.com/Ehl0gBmuNX6TT-humCSPwn3YneOspwazVQFnBJS5OdHbVJSFyDUDz_GqECHEHrr9x3BIVCmpw368xGqvhtPMXKr2ZZ0aYW4QzQHvpJIX1zNkHEDg7gOVhXrrYYwmhn9lm_pjgK_Wc6-nXYcQJpuOew" alt="" data-size="line">
 
-When first launching SS3D, the player will be greeted with a list of stations (servers) which may or may not be distinctly different from each other by means of different assets and gameplay, each entry on the list complete with a name, player count, and short description to let players know what they’re getting into. Upon choosing a station, the player will soon discover what would probably remain common between all servers: the pre-game menu.
+When first launching SS3D, the player will be greeted with a [list of stations (Server Hub)](../basic-game-mechanics/user-interface/server-hub.md). These stations may or may not be distinctly different from each other by means of different assets and gameplay, each entry on the list complete with a name, player count, and short description to let players know what they’re getting into. Upon choosing a station, the player will soon discover what would probably remain common between all servers; the [Server Lobby](../basic-game-mechanics/user-interface/server-lobby/).
 
-The pre-game menu is populated with a list of options, which allow the player some control of how they experience the game. It’s on this menu where the player will set up their custom character, choose their occupation, and finally, join an already occurring game, or queue up for the next upcoming game.
+The Server Lobby is populated with a list of options, which allow the player some control of how they experience the game. It’s on this menu where the player will set up their custom character, choose their occupation, and finally, join an already occurring game, or queue up for the next upcoming game.
 
 Upon joining a game, the player will be spawned somewhere on a community-created station likely in their respective department; engineers in engineering, medics in the medbay, janitors in a dingy closet, and so on.
 
@@ -26,7 +26,7 @@ Should they arrive late, players may find themselves flying in on a shuttle to t
 
 ## Game Flow <img src="https://lh5.googleusercontent.com/Ehl0gBmuNX6TT-humCSPwn3YneOspwazVQFnBJS5OdHbVJSFyDUDz_GqECHEHrr9x3BIVCmpw368xGqvhtPMXKr2ZZ0aYW4QzQHvpJIX1zNkHEDg7gOVhXrrYYwmhn9lm_pjgK_Wc6-nXYcQJpuOew" alt="" data-size="line">
 
-On board the station, the player will come to discover a unique cast of characters composed entirely of other online players, each who have a job on the station (probably).
+On board the station, the player will come to discover a unique cast of characters composed mostly of other online players, each who have a job on the station (probably).
 
 A first-time player would be well-suited to fiddle with the controls: throughout the game, the player’s character will be taking on their tasks one hand at a time, toggling their active hand depending on the desired effect. Clicking an item with an empty active hand may pick up the item, while clicking a vending machine with a screwdriver in your active hand may open the maintenance panel – the player will quickly learn that the whole station is full of such interactions, whether that means they are skillfully lighting a cigarette in another player’s mouth, or clumsily bashing oneself in the skull with a toolbox.
 

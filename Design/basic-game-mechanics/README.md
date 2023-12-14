@@ -5,4 +5,4 @@ coverY: 0
 
 # 🕹 Basic Game Mechanics
 
-This page covers the basic mechanics of the game like UI, controls, etc..
+This section covers the basic mechanics of the game like UI, controls, etc..

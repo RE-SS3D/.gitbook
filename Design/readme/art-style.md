@@ -1,25 +1,27 @@
 # Art Style
 
-**Something to remember: Although SS13 (and SS3D) is a goofy, quirky, cartoony game... it is also a detailed, complex, simulator that \_attempts**\_\*\* to be fairly realistic.\*\*
+**Something to remember: Although SS3D is a goofy, quirky, cartoony game... it is also a detailed, complex, simulator that "attempts**" **to be fairly realistic. There is a fine balance here.**
 
-_(Summarize the art style better here. (I'm going to forget to comeback and do this.))_
+## Style
 
-For more specific on our art style see our artist guides.
+Retro Futuristic - advanced technology since it's in the future but older technologies aren't often replaces (so you will still see CDs, cassettes, laptops, etc.).
 
-## Artist Guides
+## Guides
 
-{% content-ref url="http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/2d" %}
-[2D](http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/2d)
+For specifics on our art style see our artist guides.
+
+{% content-ref url="https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/2d" %}
+[2D](https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/2d)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/3d" %}
-[3D](http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/3d)
+{% content-ref url="https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/3d" %}
+[3D](https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/3d)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/audio" %}
-[Audio](http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/audio)
+{% content-ref url="https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/audio" %}
+[Audio](https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/audio)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/artwork" %}
-[Artwork](http://127.0.0.1:5000/s/o88TIFUbxlEVDM0ZH62q/artwork)
+{% content-ref url="https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/artwork" %}
+[Artwork](https://app.gitbook.com/s/o88TIFUbxlEVDM0ZH62q/artwork)
 {% endcontent-ref %}

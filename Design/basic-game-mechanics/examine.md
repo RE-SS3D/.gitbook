@@ -1,6 +1,6 @@
 # 🔍 Examine
 
-Players should be able to examine the things that are cannot be displayed visually to them due to simplistic [art style](../readme/art-style.md) of the game and the amount of tracked qualities of the object.
+Players should be able to examine the things that are being visually displayed to them. This is vital due to simplistic [art style](../readme/art-style.md) of the game and the amount of unique qualities of many objects.
 
 ## Basic Examine <img src="https://lh5.googleusercontent.com/Ehl0gBmuNX6TT-humCSPwn3YneOspwazVQFnBJS5OdHbVJSFyDUDz_GqECHEHrr9x3BIVCmpw368xGqvhtPMXKr2ZZ0aYW4QzQHvpJIX1zNkHEDg7gOVhXrrYYwmhn9lm_pjgK_Wc6-nXYcQJpuOew" alt="" data-size="line">
 
