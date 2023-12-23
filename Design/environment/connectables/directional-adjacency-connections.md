@@ -43,28 +43,28 @@ The armrests by their nature are only required on the end shapes of the sofa (â€
 
 Other examples of directional connectables that are not fully realized yet may include things like railings and fences...
 
-## How those directional connect to each other ?
+## How those directional connect to each other?
 
-### Number of neighbours
+### Number of neighbors
 
-Directionals can't connect to more than two neighbours. Once they are connected, putting any new directionals near them won't update them, unless a neighbour is disconnected.
+Directionals can't connect to more than two neighbors. Once they are connected, putting any new directionals near them won't update them, unless a neighbor is disconnected.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>The Lout shape booth is fully connected and doesn't care about the other neighbours</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt="" width="295"><figcaption><p>The Lout shape booth is fully connected and doesn't care about the other neighbors.</p></figcaption></figure>
 
-### Removing a neighbour
+### Removing a neighbor
 
-When removing a neighbour, a connection is free, and the directionnal will look for other adjacent directional to form an eventual second connection and change shape.
+When removing a neighbor, a connection is free, and the directional will look for other adjacent directional to form an eventual second connection and change shape.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Booth before removing a neighbour and after.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt="" width="375"><figcaption><p>Booth before removing a neighbor and after.</p></figcaption></figure>
 
 ### Configuration priority
 
-When a directional has to change shape and has multiple options (LIn, LOut, I), the directional will choose shape in the following order :
+When a directional has to change shape and has multiple options (LIn, LOut, I), the directional will choose shape in the following order:
 
 * I shape
 * Lin shape
-* Lout shape\\
+* Lout shape
 
 This order is arbitrary, but it's necessary to define one as some cases are not well defined without it.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Before and after removing the south connection of the LOut shape, see that the I shape takes priority over the LIn shape</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Before and after removing the south connection of the LOut shape, see that the I shape takes priority over the LIn shape.</p></figcaption></figure>
