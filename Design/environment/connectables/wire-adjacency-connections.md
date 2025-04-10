@@ -48,4 +48,10 @@ Wires, like pipes, can also be destroyed and will leave behind broken ends in an
 
 The combination of wires’ unique properties allows for some really creative combinations which is infamously known as “wire art” in ss13 (the images below are great examples).\
 \
-![](https://lh6.googleusercontent.com/60zD3iu3FYH4AcOAZntaN5aX91Q\_Cf4Pim6jARp2asJrYC6SEdFPZ9SY2CF8RfkiXudi\_msjkpiGjXZx\_53J7Ob9FJVNISCmSSl0gvr5GYqnQJHX2vplmjGc05xYSKnvNYibQ4TKMieXDjgNDZX0rA)![](https://lh6.googleusercontent.com/AzzzNQ\_pyoJDGR2RsYMmtfZ3cGuyXlLmH2o1rhn45A2S2vtOesTu-6mmqqRPXFeIjvzJWovTAtO0rN\_XCQj8Wt0132WYeqUeze6JPsHUvH9UpySR5BtndH\_HW2P3MhIRsVi\_kL2C8662D5a6UTI0HA)![](https://lh5.googleusercontent.com/npw6HVPUaCFbW8oUHpLkyESKhPW8GHI1sr\_tTn1SCZ1hnFprweWszx0U-Mf6L-4tAzfjp4mLQPhgeCPNJw2rgK2hVGEmkP\_LuVBQ1o4vnDVZD-JCjvdZ-0DIHmel-Z\_Y-FV3VeJ4QO2pvDP-K\_7ktg)
+![](https://lh6.googleusercontent.com/AzzzNQ_pyoJDGR2RsYMmtfZ3cGuyXlLmH2o1rhn45A2S2vtOesTu-6mmqqRPXFeIjvzJWovTAtO0rN_XCQj8Wt0132WYeqUeze6JPsHUvH9UpySR5BtndH_HW2P3MhIRsVi_kL2C8662D5a6UTI0HA)![](https://lh5.googleusercontent.com/npw6HVPUaCFbW8oUHpLkyESKhPW8GHI1sr_tTn1SCZ1hnFprweWszx0U-Mf6L-4tAzfjp4mLQPhgeCPNJw2rgK2hVGEmkP_LuVBQ1o4vnDVZD-JCjvdZ-0DIHmel-Z_Y-FV3VeJ4QO2pvDP-K_7ktg)
+
+<figure><img src="https://lh6.googleusercontent.com/60zD3iu3FYH4AcOAZntaN5aX91Q_Cf4Pim6jARp2asJrYC6SEdFPZ9SY2CF8RfkiXudi_msjkpiGjXZx_53J7Ob9FJVNISCmSSl0gvr5GYqnQJHX2vplmjGc05xYSKnvNYibQ4TKMieXDjgNDZX0rA" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+We may expand the wire system to allow for multiple layers in the future.
+{% endhint %}

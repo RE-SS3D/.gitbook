@@ -55,8 +55,3 @@ T4 - A “T” type variant which connects to the north, east, and south (not me
 X - A regular “X” type variant which connects to all 4 cardinal directions (not meant to be rotated).
 
 <figure><img src="https://lh3.googleusercontent.com/pbUx0MadXhNslql_9AG9ixByupO0iBZ40ljRp5YCTWW-2ehNmuSYIDp7kmV2e9pHqhUgcNmA6uTVssUYTP4zfTiF67MNn7zgYLRdmTsJFIFYhlwCosPD8l-ydR8H3FpQ8tpRDYQopChXHN5n1180Qw" alt=""><figcaption></figcaption></figure>
-
-What's also to be considered:
-
-* Pipe Machinery Adjacency Connections
-* Transit Tube Adjacency Connections
