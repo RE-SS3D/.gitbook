@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👨💼 Management Intro](README.md)
+* [👨‍💼 Management Intro](README.md)
   * [CentCom Responsibilities](management-intro/centcom-responsibilities.md)
   * [Sites & Accounts](management-intro/sites-and-accounts/README.md)
     * [Gitbook and Github Syncing](management-intro/sites-and-accounts/gitbook-and-github-syncing.md)

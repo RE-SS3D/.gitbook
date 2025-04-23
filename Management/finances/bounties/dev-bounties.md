@@ -11,16 +11,16 @@ Conditions for a task to have a bounty are :&#x20;
 
 The price of the bounty will be fixed by a Centcom member, by estimating how time consuming it will be :
 
-* **Full new system (20 dollars)** :&#x20;
+* **Full new system (90 dollars)** :&#x20;
   * Implementing every aspect of a complete major system design doc.
-* **Major rework / Major feature (15 dollars)** :&#x20;
+* **Major rework / Major feature (60 dollars)** :&#x20;
   * Major rework : Heavy changes on an existing system, full reorganization, significant boost in performance/readability/re-usability.
   * Major feature : Adding some lengthy and complex classes/struct/prefabs, complex methods.
-* **Minor rework / Minor feature / Major fix (10 dollars)** :&#x20;
+* **Minor rework / Minor feature / Major fix (30 dollars)** :&#x20;
   * Minor rework : Changing a chunk of an existing system, a few classes/methods.&#x20;
   * Minor feature : Changing a few classes, adding small classes.
   * Major fix : Fix impacting multiple systems and hard to solve.
-* **Minor Bug fix / Small feature (5 dollars)** :&#x20;
+* **Minor Bug fix / Small feature (15 dollars)** :&#x20;
   * Minor Feature : Small change to existing code.&#x20;
   * Minor bug fix : bug that doesn't affect multiple system, that can be solved in a few changes (usually a few lines).
 
