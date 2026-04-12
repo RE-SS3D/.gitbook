@@ -24,6 +24,6 @@ Unity Hub downloads.
 
 To avoid having to update the current version in this document every time it's updated, we will just point you to the version file instead.
 
-{% embed url="https://github.com/RE-SS3D/SS3D/blob/develop/ProjectSettings/ProjectVersion.txt" %}
+{% embed url="https://raw.githubusercontent.com/RE-SS3D/SS3D/develop/ProjectSettings/ProjectVersion.txt" %}
 ProjectVersion.txt
 {% endembed %}
