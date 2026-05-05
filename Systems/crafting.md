@@ -16,7 +16,7 @@ It's using the following structure :
 Dictionary<ItemId, Dictionary<string, CraftingRecipe>>
 ```
 
-The system starts by looking for all recipes in the recipe asset database and fill the structure.
+The system starts by reading the `CraftingRecipes` database from `AssetSubSystem`, loading each recipe GUID, and filling the structure.
 
 Both client and server have access to the full recipe list.
 
@@ -60,5 +60,5 @@ You can then fill up the recipe with everything it needs. Should be explicit eno
 
 <figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-If you want your recipe to be accessible in game though, you'll need to [add it to the recipe asset database](asset-data/).
+If you want your recipe to be accessible in game though, you'll need to [add it to the recipe asset database](asset-data/creating-an-asset-database.md).
 
