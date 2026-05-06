@@ -35,7 +35,7 @@ Most files in the Art folder are documented in the Art Asset Contributor list cu
 
 Unlike art assets, content assets, are **NOT** sorted by asset type, but rather their broad usage.&#x20;
 
-* **/Addressables:** asset data files.
+* **/Addressables:** addressable content used by `AssetSubSystem`.
 * **/Data:** Holds all the **Scriptable Objects** and data files that are used by scripts.
 * **/Resources:** you will see a Resources folder here in the Content folder and maybe a few floating around other places in the project. This is used to house files that specifically require to be held in a folder called resources. I think this only effects 'object type' content assets. I think it had something to do with network IDs or the tilemap or both (Broodje would know).
 * **/Scenes:** unity scene files for menus, maps, and such.
